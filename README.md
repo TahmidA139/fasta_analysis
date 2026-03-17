@@ -11,7 +11,7 @@ This script was developed for the analysis of partial coding sequences of the Na
 ### 1. Clone or download the repository
 
 ```bash
-git clone https://github.com/your-username/fasta_analysis.git
+git clone https://github.com/TahmidA139/fasta_analysis.git
 cd fasta_analysis
 ```
 
